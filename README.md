@@ -1,4 +1,6 @@
-### Hi there 👋
+## Profile
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsxz1359)](https://solved.ac/nsxz1359)
 
 <!--
 **ind2x/ind2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
